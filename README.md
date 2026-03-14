@@ -328,7 +328,7 @@ LED STATE (HIGH) of NODE ID 15 (SubChild) via Child NODE ID 7 via Parent NODE ID
 
 This architecture can be used for:
 
-- Smart Agriculture
+- Agritech(Precision Farming)
 - Industrial IoT Monitoring
 - Large Sensor Networks
 - Home Automation
@@ -348,7 +348,3 @@ Future enhancements:
 - Multi-gateway scaling
 
 ---
-
-# Author
-
-IoT Mesh Networking Experiment using **NRF24L01 + RF24Mesh** with hierarchical addressing and dynamic node assignment.
