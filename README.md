@@ -40,6 +40,16 @@ The network consists of:
 
 Each node periodically transmits **sensor state (LED/Digital Pin)** to the **Gateway**, while the gateway dynamically assigns IDs within predefined ranges.
 
+## Project Highlights
+
+- Hierarchical IoT mesh network using NRF24L01
+- Dynamic node ID allocation using RF24Mesh
+- Node-limit addressing strategy
+- Multi-hop routing (SubChild → Child → Parent → Gateway)
+- Real-time sensor state transmission
+- Scalable architecture for larger IoT deployments
+
+
 ---
 
 # Network Architecture
