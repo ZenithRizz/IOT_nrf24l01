@@ -1,3 +1,9 @@
+![Arduino](https://img.shields.io/badge/Platform-Arduino-blue)
+![NRF24L01](https://img.shields.io/badge/Wireless-NRF24L01-green)
+![IoT](https://img.shields.io/badge/Project-IoT-orange)
+![Mesh Network](https://img.shields.io/badge/Topology-Mesh-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # NRF24L01 IoT Mesh Network with Node-Limit Addressing
 
 An IoT wireless sensor network using **NRF24L01 modules** built on top of:
